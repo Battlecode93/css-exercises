@@ -1,1 +1,2 @@
 # css-exercises
+grouping selectors 
